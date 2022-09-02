@@ -1,0 +1,277 @@
+[
+  {
+    "nombreDificultad": "Super Easy",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuál es el país con más habitantes del mundo?",
+        "respuestas": [
+          { "texto": "China" },
+          { "texto": "Rusia" },
+          { "texto": "Japón" },
+          { "texto": "Estados Unidos" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cuál es la capital de México",
+        "respuestas": [
+          { "texto": "Ciudad de México" },
+          { "texto": "Oaxaca" },
+          { "texto": "Monterrey" },
+          { "texto": "Cancún" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cuál es el libro más vendido de la historia?",
+        "respuestas": [
+          { "texto": "Don Quijote de la Mancha" },
+          { "texto": "La Biblia" },
+          { "texto": "Harry Potter" },
+          { "texto": "El principito" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cómo se les conoce a los grupos de leones?",
+        "respuestas": [
+          { "texto": "Grupos" },
+          { "texto": "Leones" },
+          { "texto": "Manadas" },
+          { "texto": "Clase" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Cuál es el libro sagrado del Islam?",
+        "respuestas": [
+          { "texto": "El código Da Vinci" },
+          { "texto": "El alquimista" },
+          { "texto": "Biblia" },
+          { "texto": "Corán" }
+        ],
+        "respuestaCorrecta": 3
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Easy",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuántos colores tiene la bandera de Noruega?",
+        "respuestas": [
+          { "texto": "3" },
+          { "texto": "1" },
+          { "texto": "2" },
+          { "texto": "4" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿De qué sustancia están hechas las uñas?",
+        "respuestas": [
+          { "texto": "Metanol" },
+          { "texto": "Aminas" },
+          { "texto": "Queratina" },
+          { "texto": "Cetonas" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Cuál es la pelicula más taquillera?",
+        "respuestas": [
+          { "texto": "Avengers Endgame" },
+          { "texto": "Avatar" },
+          { "texto": "Spider-man No Way Home" },
+          { "texto": "Jurassic World" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿De qué color es la pastilla que toma Neo en “Matrix”?",
+        "respuestas": [
+          { "texto": "Roja" },
+          { "texto": "Amarilla" },
+          { "texto": "Azul" },
+          { "texto": "Verde" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Quién fue el primer hombre en pisar la luna?",
+        "respuestas": [
+          { "texto": "William Anders" },
+          { "texto": "Michael Collins" },
+          { "texto": "Edwin (Buzz) Aldrin Jr." },
+          { "texto": "Neil Armstrong" }
+        ],
+        "respuestaCorrecta": 3
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Medium",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuál es la isla más grande del mundo?",
+        "respuestas": [
+          { "texto": "Groenlandia" },
+          { "texto": "Islandia" },
+          { "texto": "Madagascar" },
+          { "texto": "Cuba" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cuántos huesos tienen las jirafas en el cuello?",
+        "respuestas": [
+          { "texto": "4" },
+          { "texto": "1" },
+          { "texto": "7" },
+          { "texto": "3" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Cuántas veces pueden levantar las hormigas su peso?",
+        "respuestas": [
+          { "texto": "50 veces" },
+          { "texto": "80 veces" },
+          { "texto": "30 veces" },
+          { "texto": "18 veces" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cuál es el desierto más extenso del mundo?",
+        "respuestas": [
+          { "texto": "Namib" },
+          { "texto": "Sáhara" },
+          { "texto": "Gran Desierto de Victoria" },
+          { "texto": "Kalahari" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿En cuál país se encuentra la cascada más alta del mundo?",
+        "respuestas": [
+          { "texto": "Noruega" },
+          { "texto": "Cánada" },
+          { "texto": "Argentina" },
+          { "texto": "Venezuela" }
+        ],
+        "respuestaCorrecta": 3
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Hard",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuál es el diámetro de la tierra?",
+        "respuestas": [
+          { "texto": "12.700 km" },
+          { "texto": "17.200 km" },
+          { "texto": "23.600 km" },
+          { "texto": "7.200 km" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿En qué año empezó la primera guerra mundial?",
+        "respuestas": [
+          { "texto": "1910" },
+          { "texto": "1940" },
+          { "texto": "1912" },
+          { "texto": "1914" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Cuál es el idioma principal en Suiza?",
+        "respuestas": [
+          { "texto": "Suizo" },
+          { "texto": "Alemán" },
+          { "texto": "Búlgaro" },
+          { "texto": "Estonio" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿En qué año ocurrió la tragedia nuclear en Chernóbil?",
+        "respuestas": [
+          { "texto": "1984" },
+          { "texto": "1980" },
+          { "texto": "1986" },
+          { "texto": "1989" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Cuál es el elemento químico del potasio?",
+        "respuestas": [
+          { "texto": "K" },
+          { "texto": "Po" },
+          { "texto": "Pa" },
+          { "texto": "P" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Extra Hard",
+    "preguntas": [
+      {
+        "enunciado": "¿En qué año empezó la revolución francesa?",
+        "respuestas": [
+          { "texto": "1799" },
+          { "texto": "1805" },
+          { "texto": "1767" },
+          { "texto": "1789" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Cuánto dura el embarazo en los elefantes?",
+        "respuestas": [
+          { "texto": "24 meses" },
+          { "texto": "22 meses" },
+          { "texto": "14 meses" },
+          { "texto": "18 meses" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cuál es la luna más grande de Saturno?",
+        "respuestas": [
+          { "texto": "Titán" },
+          { "texto": "Tethys" },
+          { "texto": "Prometheus" },
+          { "texto": "Pandora" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿A qué edad se volvió billonario Bill Gates?",
+        "respuestas": [
+          { "texto": "41 años de edad" },
+          { "texto": "31 años de edad" },
+          { "texto": "45 años de edad" },
+          { "texto": "27 años de edad" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cuál país le regaló a Estados Unidos la estatua de la libertad?",
+        "respuestas": [
+          { "texto": "Francia" },
+          { "texto": "China" },
+          { "texto": "Alemania" },
+          { "texto": "Suiza" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  }
+]
