@@ -3,27 +3,27 @@
     "nombreDificultad": "Super Easy",
     "preguntas": [
       {
-        "enunciado": "¿Cuál es el país con más habitantes del mundo?",
+        "enunciado": "Cual es el pais con mas habitantes del mundo?",
         "respuestas": [
           { "texto": "China" },
           { "texto": "Rusia" },
-          { "texto": "Japón" },
+          { "texto": "Japon" },
           { "texto": "Estados Unidos" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "¿Cuál es la capital de México",
+        "enunciado": "Cual es la capital de Mexico",
         "respuestas": [
-          { "texto": "Ciudad de México" },
+          { "texto": "Ciudad de Mexico" },
           { "texto": "Oaxaca" },
           { "texto": "Monterrey" },
-          { "texto": "Cancún" }
+          { "texto": "Cancun" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "¿Cuál es el libro más vendido de la historia?",
+        "enunciado": "Cual es el libro mas vendido de la historia?",
         "respuestas": [
           { "texto": "Don Quijote de la Mancha" },
           { "texto": "La Biblia" },
@@ -33,7 +33,7 @@
         "respuestaCorrecta": 1
       },
       {
-        "enunciado": "¿Cómo se les conoce a los grupos de leones?",
+        "enunciado": "Como se les conoce a los grupos de leones?",
         "respuestas": [
           { "texto": "Grupos" },
           { "texto": "Leones" },
@@ -43,12 +43,12 @@
         "respuestaCorrecta": 2
       },
       {
-        "enunciado": "¿Cuál es el libro sagrado del Islam?",
+        "enunciado": "Cual es el libro sagrado del Islam?",
         "respuestas": [
-          { "texto": "El código Da Vinci" },
+          { "texto": "El codigo Da Vinci" },
           { "texto": "El alquimista" },
           { "texto": "Biblia" },
-          { "texto": "Corán" }
+          { "texto": "Coran" }
         ],
         "respuestaCorrecta": 3
       }
@@ -58,7 +58,7 @@
     "nombreDificultad": "Easy",
     "preguntas": [
       {
-        "enunciado": "¿Cuántos colores tiene la bandera de Noruega?",
+        "enunciado": "Cuantos colores tiene la bandera de Noruega?",
         "respuestas": [
           { "texto": "3" },
           { "texto": "1" },
@@ -68,7 +68,7 @@
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "¿De qué sustancia están hechas las uñas?",
+        "enunciado": "De que sustancia estan hechas las uñas?",
         "respuestas": [
           { "texto": "Metanol" },
           { "texto": "Aminas" },
@@ -78,7 +78,7 @@
         "respuestaCorrecta": 2
       },
       {
-        "enunciado": "¿Cuál es la pelicula más taquillera?",
+        "enunciado": "Cual es la pelicula mas taquillera?",
         "respuestas": [
           { "texto": "Avengers Endgame" },
           { "texto": "Avatar" },
@@ -88,7 +88,7 @@
         "respuestaCorrecta": 1
       },
       {
-        "enunciado": "¿De qué color es la pastilla que toma Neo en “Matrix”?",
+        "enunciado": "De que color es la pastilla que toma Neo en Matrix?",
         "respuestas": [
           { "texto": "Roja" },
           { "texto": "Amarilla" },
@@ -98,7 +98,7 @@
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "¿Quién fue el primer hombre en pisar la luna?",
+        "enunciado": "Quien fue el primer hombre en pisar la luna?",
         "respuestas": [
           { "texto": "William Anders" },
           { "texto": "Michael Collins" },
@@ -113,7 +113,7 @@
     "nombreDificultad": "Medium",
     "preguntas": [
       {
-        "enunciado": "¿Cuál es la isla más grande del mundo?",
+        "enunciado": "Cual es la isla mas grande del mundo?",
         "respuestas": [
           { "texto": "Groenlandia" },
           { "texto": "Islandia" },
@@ -123,7 +123,7 @@
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "¿Cuántos huesos tienen las jirafas en el cuello?",
+        "enunciado": "Cuantos huesos tienen las jirafas en el cuello?",
         "respuestas": [
           { "texto": "4" },
           { "texto": "1" },
@@ -133,7 +133,7 @@
         "respuestaCorrecta": 2
       },
       {
-        "enunciado": "¿Cuántas veces pueden levantar las hormigas su peso?",
+        "enunciado": "Cuantas veces pueden levantar las hormigas su peso?",
         "respuestas": [
           { "texto": "50 veces" },
           { "texto": "80 veces" },
@@ -143,20 +143,20 @@
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "¿Cuál es el desierto más extenso del mundo?",
+        "enunciado": "Cual es el desierto mas extenso del mundo?",
         "respuestas": [
           { "texto": "Namib" },
-          { "texto": "Sáhara" },
+          { "texto": "Sahara" },
           { "texto": "Gran Desierto de Victoria" },
           { "texto": "Kalahari" }
         ],
         "respuestaCorrecta": 1
       },
       {
-        "enunciado": "¿En cuál país se encuentra la cascada más alta del mundo?",
+        "enunciado": "En cual pais se encuentra la cascada mas alta del mundo?",
         "respuestas": [
           { "texto": "Noruega" },
-          { "texto": "Cánada" },
+          { "texto": "Canada" },
           { "texto": "Argentina" },
           { "texto": "Venezuela" }
         ],
@@ -168,7 +168,7 @@
     "nombreDificultad": "Hard",
     "preguntas": [
       {
-        "enunciado": "¿Cuál es el diámetro de la tierra?",
+        "enunciado": "Cual es el diametro de la tierra?",
         "respuestas": [
           { "texto": "12.700 km" },
           { "texto": "17.200 km" },
@@ -178,7 +178,7 @@
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "¿En qué año empezó la primera guerra mundial?",
+        "enunciado": "En que año empezo la primera guerra mundial?",
         "respuestas": [
           { "texto": "1910" },
           { "texto": "1940" },
@@ -188,17 +188,17 @@
         "respuestaCorrecta": 3
       },
       {
-        "enunciado": "¿Cuál es el idioma principal en Suiza?",
+        "enunciado": "Cual es el idioma principal en Suiza?",
         "respuestas": [
           { "texto": "Suizo" },
-          { "texto": "Alemán" },
-          { "texto": "Búlgaro" },
+          { "texto": "Aleman" },
+          { "texto": "Bulgaro" },
           { "texto": "Estonio" }
         ],
         "respuestaCorrecta": 1
       },
       {
-        "enunciado": "¿En qué año ocurrió la tragedia nuclear en Chernóbil?",
+        "enunciado": "En que año ocurrio la tragedia nuclear en Chernobil?",
         "respuestas": [
           { "texto": "1984" },
           { "texto": "1980" },
@@ -208,7 +208,7 @@
         "respuestaCorrecta": 2
       },
       {
-        "enunciado": "¿Cuál es el elemento químico del potasio?",
+        "enunciado": "Cual es el elemento quimico del potasio?",
         "respuestas": [
           { "texto": "K" },
           { "texto": "Po" },
@@ -223,7 +223,7 @@
     "nombreDificultad": "Extra Hard",
     "preguntas": [
       {
-        "enunciado": "¿En qué año empezó la revolución francesa?",
+        "enunciado": "En que año empezo la revolucion francesa?",
         "respuestas": [
           { "texto": "1799" },
           { "texto": "1805" },
@@ -233,7 +233,7 @@
         "respuestaCorrecta": 3
       },
       {
-        "enunciado": "¿Cuánto dura el embarazo en los elefantes?",
+        "enunciado": "Cuanto dura el embarazo en los elefantes?",
         "respuestas": [
           { "texto": "24 meses" },
           { "texto": "22 meses" },
@@ -243,9 +243,9 @@
         "respuestaCorrecta": 1
       },
       {
-        "enunciado": "¿Cuál es la luna más grande de Saturno?",
+        "enunciado": "Cual es la luna mas grande de Saturno?",
         "respuestas": [
-          { "texto": "Titán" },
+          { "texto": "Titan" },
           { "texto": "Tethys" },
           { "texto": "Prometheus" },
           { "texto": "Pandora" }
@@ -253,7 +253,7 @@
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "¿A qué edad se volvió billonario Bill Gates?",
+        "enunciado": "A que edad se volvio billonario Bill Gates?",
         "respuestas": [
           { "texto": "41 años de edad" },
           { "texto": "31 años de edad" },
@@ -263,7 +263,7 @@
         "respuestaCorrecta": 1
       },
       {
-        "enunciado": "¿Cuál país le regaló a Estados Unidos la estatua de la libertad?",
+        "enunciado": "Cual pais le regalo a Estados Unidos la estatua de la libertad?",
         "respuestas": [
           { "texto": "Francia" },
           { "texto": "China" },
